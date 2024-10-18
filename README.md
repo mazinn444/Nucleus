@@ -47,7 +47,7 @@ O programa coleta e exibe as seguintes informações:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/matheusmv/nucleus.git
+   git clone https://github.com/mazinn444/Nucleus.git
    ```
 
 2. Navegue até o diretório do projeto:
