@@ -9,7 +9,7 @@
 </p>
 
 <p style="text-align: justify;">
-  Nucleus é um avançado utilitário desenvolvido em C++ projetado para fornecer uma visão abrangente e detalhada do sistema operacional em execução. Com uma interface intuitiva e eficiente, o Nucleus oferece aos usuários uma análise completa dos componentes essenciais do sistema, incluindo informações sobre hardware e software, permitindo uma compreensão profunda da configuração e desempenho do computador.
+  Nucleus é um avançado utilitário desenvolvido em C++ projetado para fornecer uma visão abrangente e detalhada do sistema operacional em execução. Com uma interface intuitiva e eficiente, o Nucleus oferece aos usuários uma análise completa dos componentes essenciais do sistema, incluindo informações sobre hardware e software, permitindo uma compreensão profunda da configuração e desempenho do computador. Nucleus pode ser uma segunda alternativa rápida para Neofetch.
 </p>
 
 ## Funcionalidades
